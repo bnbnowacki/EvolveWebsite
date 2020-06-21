@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\bnbno\\.nuget\\packages\\": {}
+    "C:\\Users\\matin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bnbno\\source\\repos\\Evolve\\EvolveProject\\EvolveProject.csproj",
+      "projectUniqueName": "C:\\Users\\matin\\Source\\Repos\\EvolveWebsite\\EvolveProject\\EvolveProject.csproj",
       "projectName": "EvolveProject",
-      "projectPath": "C:\\Users\\bnbno\\source\\repos\\Evolve\\EvolveProject\\EvolveProject.csproj",
-      "packagesPath": "C:\\Users\\bnbno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bnbno\\source\\repos\\Evolve\\EvolveProject\\obj\\",
+      "projectPath": "C:\\Users\\matin\\Source\\Repos\\EvolveWebsite\\EvolveProject\\EvolveProject.csproj",
+      "packagesPath": "C:\\Users\\matin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\matin\\Source\\Repos\\EvolveWebsite\\EvolveProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\bnbno\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\matin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -53,6 +53,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[3.1.2, 3.1.2]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -61,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gfM5Z6wG31NZM+yD9QR9LKDBLD+y6N8SUNQF4YvNhYVXyQh6IaXMEhJfrFVYMUYEsICus7ILl8vnrzdxYxevkA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\matin\\Source\\Repos\\EvolveWebsite\\EvolveProject\\EvolveProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\matin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
